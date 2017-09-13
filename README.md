@@ -5,14 +5,14 @@ Module for Python to create obfuscated javascript using [JSFuck](http://www.jsfu
 
 Utilizes a lightly modified version of [jsfuck.js](https://github.com/aemkei/jsfuck/blob/master/jsfuck.js) - [JSFuck Project](https://github.com/aemkei/jsfuck)
 
-Big Thanks to [Martin Kleppe](http://twitter.com/aemkei) for making JSFuck! - [http://aem1k.com](http://aem1k.com)
+Big Thanks to [Martin Kleppe](http://twitter.com/aemkei) for creating JSFuck! - [http://aem1k.com](http://aem1k.com)
 
 
 # Dependencies
 
-Python 2.7 - [https://www.python.org/](https://www.python.org/)
-Node JS 8.5.9 - [https://nodejs.org/](https://nodejs.org/)
-PyExecJs - [https://github.com/doloopwhile/PyExecJS](https://github.com/doloopwhile/PyExecJS)
+* Python 2.7 - [https://www.python.org/](https://www.python.org/)
+* Node JS 8.5.9 - [https://nodejs.org/](https://nodejs.org/)
+* PyExecJs - [https://github.com/doloopwhile/PyExecJS](https://github.com/doloopwhile/PyExecJS)
 
 
 # Example Usage
